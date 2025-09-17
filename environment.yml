@@ -1,0 +1,22 @@
+name: dicom_images
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8.20
+  - pydicom=2.4.4
+  - numpy=1.24.4
+  - pandas=2.0.3
+  - matplotlib=3.7.3
+  - scikit-image=0.21.0
+  - pyvista=0.44.2
+  - imageio=2.36.0
+  - tifffile=2023.7.10
+  - streamlit=1.41.1
+  - aiohttp=3.10.5
+  - altair=5.4.1
+  - rich=13.9.4
+  - jupyterlab
+  - ipywidgets
+  - pip
+  - pip:
+
