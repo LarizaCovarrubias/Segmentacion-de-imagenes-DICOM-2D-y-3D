@@ -21,12 +21,11 @@ Desarrollar una herramienta que permita:
 
 ## 📂 Contenido del repositorio
 
-- `data/`: estructura esperada para archivos DICOM  
-- `notebooks/`: notebooks para exploración y pruebas  
-- `src/`: código fuente modularizado  
-- `results/`: resultados generados  
-- `docs/`: documentación adicional  
-- `environment.yml`: archivo para recrear el ambiente de trabajo  
+- `images/`: imágenes de ejemplo utilizadas para la visualización de resultados  
+- `images_dicom.py`: script principal para la carga, procesamiento y segmentación de imágenes DICOM  
+- `images_dicom_streamlit.py`: aplicación interactiva desarrollada con Streamlit  
+- `environment.yml`: archivo para recrear el entorno de trabajo  
+- `README.md`: documentación del proyecto 
 
 ---
 
